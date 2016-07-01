@@ -3,7 +3,7 @@ import chaiImmutable from 'chai-immutable';
 
 chai.use(chaiImmutable);
 
-import {expect} from chai;
+import {expect} from 'chai';
 
 describe('immutability', () => {
 	
